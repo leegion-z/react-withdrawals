@@ -1,0 +1,18 @@
+.withdrawals {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.amount-wrap {
+  flex: 1;
+  padding: 30px;
+}
+.all-withdrawals {
+  color: blue;
+}
+.input-num-wrap {
+  margin: 10px 0;
+  font-size: 50px;
+  border-bottom: 1px solid #ccc;
+
+}
